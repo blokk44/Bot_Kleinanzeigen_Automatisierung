@@ -1,4 +1,6 @@
-# Installiere Playwright Browser
+#!/bin/bash
+
+# Installiere Playwright-Browser
 playwright install
 
 # Starte das Python-Skript
