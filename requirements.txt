@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+python-telegram-bot
+python-dotenv
+playwright
+sqlite3
