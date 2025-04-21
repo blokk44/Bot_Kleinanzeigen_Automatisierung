@@ -1,7 +1,3 @@
 #!/bin/bash
-
-# Installiere Playwright-Browser
-playwright install
-
-# Starte das Python-Skript
-python3 main.py
+pip install -r requirements.txt
+python3 -m playwright install
